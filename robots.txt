@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://beni-young.github.io/Portfolio/sitemap.xml
