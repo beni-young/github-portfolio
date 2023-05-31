@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Beni Young Profile</title>
-    <link>https://beni-young.github.io/Portfolio/</link>
+    <link>https://beni-young.github.io/github-portfolio/</link>
     <description>Recent content on Beni Young Profile</description>
     <image>
       <title>Beni Young Profile</title>
-      <url>https://beni-young.github.io/Portfolio/static/images/5095904.jpg</url>
-      <link>https://beni-young.github.io/Portfolio/static/images/5095904.jpg</link>
+      <url>https://beni-young.github.io/github-portfolio/static/images/5095904.jpg</url>
+      <link>https://beni-young.github.io/github-portfolio/static/images/5095904.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 May 2023 11:58:08 -0400</lastBuildDate><atom:link href="https://beni-young.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 May 2023 11:58:08 -0400</lastBuildDate><atom:link href="https://beni-young.github.io/github-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uber Data Analytics</title>
-      <link>https://beni-young.github.io/Portfolio/posts/uber-data-analytics/</link>
+      <link>https://beni-young.github.io/github-portfolio/posts/uber-data-analytics/</link>
       <pubDate>Mon, 29 May 2023 11:58:08 -0400</pubDate>
       
-      <guid>https://beni-young.github.io/Portfolio/posts/uber-data-analytics/</guid>
+      <guid>https://beni-young.github.io/github-portfolio/posts/uber-data-analytics/</guid>
       <description>Uber Data Analytics</description>
     </item>
     
     <item>
       <title>Exploratory Data Analysis on Black Directors</title>
-      <link>https://beni-young.github.io/Portfolio/posts/project-1/</link>
+      <link>https://beni-young.github.io/github-portfolio/posts/project-1/</link>
       <pubDate>Sat, 27 May 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://beni-young.github.io/Portfolio/posts/project-1/</guid>
+      <guid>https://beni-young.github.io/github-portfolio/posts/project-1/</guid>
       <description>A tool that looks at Black Directors</description>
     </item>
     
     <item>
       <title>Data Visualization</title>
-      <link>https://beni-young.github.io/Portfolio/posts/project-3/</link>
+      <link>https://beni-young.github.io/github-portfolio/posts/project-3/</link>
       <pubDate>Thu, 11 May 2023 11:13:32 -0400</pubDate>
       
-      <guid>https://beni-young.github.io/Portfolio/posts/project-3/</guid>
+      <guid>https://beni-young.github.io/github-portfolio/posts/project-3/</guid>
       <description>I still need to choose a dataset with complex relationships and create interactive visualizations to showcase the patterns and trends in the data. This project will showcase the ability to create visually appealing and informative data visualizations using libraries such as D3.js, Plotly, and Tableau.</description>
     </item>
     
     <item>
       <title>Regression Data Analysis of New Orleans Homeless Population</title>
-      <link>https://beni-young.github.io/Portfolio/posts/project-2/</link>
+      <link>https://beni-young.github.io/github-portfolio/posts/project-2/</link>
       <pubDate>Wed, 10 May 2023 11:00:59 -0400</pubDate>
       
-      <guid>https://beni-young.github.io/Portfolio/posts/project-2/</guid>
+      <guid>https://beni-young.github.io/github-portfolio/posts/project-2/</guid>
       <description>New Orleans Homeless Population</description>
     </item>
     
